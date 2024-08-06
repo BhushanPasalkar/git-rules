@@ -39,3 +39,5 @@ pipeline {
 }
 
 This changes done to check Rulesets.
+
+To check Github Checks.
